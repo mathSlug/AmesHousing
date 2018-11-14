@@ -1,4 +1,5 @@
-### load dependencies
+#ML NYCDSA 2018
+## load dependencies
 library(readr)
 library(tidyverse)
 library(psych)
